@@ -113,3 +113,8 @@ main{
 .about-info{
     text-align: center;
 }
+
+/* skills related styles */
+#what-i-do-descrip{
+    padding: 30px 150px;
+}
