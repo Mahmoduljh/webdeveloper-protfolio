@@ -137,3 +137,11 @@ main section{
     color: rgb(5, 3, 3);
     
 }
+
+/* resume section style */
+
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
